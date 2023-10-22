@@ -1,0 +1,12 @@
+body{
+    pointer-events: auto !important;
+    background-size: 100% !important;
+    opacity: 0.90 !important;
+    background-position: 0 0 !important;
+    background-image: url('https://trecobox.com.br/wp-content/uploads/2023/05/interestelar-capa.jpeg');
+    content: '';
+    position: absolute;;
+    z-index: 999;
+    width: 100%;
+    background-repeat: no-repeat;
+    }
